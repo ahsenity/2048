@@ -1,11 +1,11 @@
 
-* 🔢 Classic 2048 gameplay mechanics
-* 🎯 Score system
-* 🎮 Smooth tile movement and merging
-* 🧠 Grid-based game logic
-* 💻 Keyboard input controls
-* 🎨 Simple and clean UI
-
+* Classic 2048 gameplay mechanics
+* Score system
+* Smooth tile movement and merging
+* Grid-based game logic
+* Keyboard input controls
+* Simple and clean UI
+* Fun music
     
 * Unity 
 * C# 
